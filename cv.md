@@ -28,12 +28,10 @@ Grasshopper - Array Mean (JavaScript)*
 > other code examples from training projects can be viewed on the following websites [CodeWars](https://www.codewars.com/users/burlake/completed_solutions) and [GitHub](https://github.com/burlake)
  
 *education*
-<details>
-    <summary>courses</summary>
-	- Веб-разработка для начинающих: HTML и CSS (Stepik) - 2025
-	<br> - Фронтенд-разработчик (Яндекс-Практикум) - 2024
-	<br> - CS50 - 2023
-   </details>
+> courses
+- [x] Веб-разработка для начинающих: HTML и CSS (Stepik) - 2025
+- [x] Фронтенд-разработчик (Яндекс-Практикум) - 2024
+- [x] CS50 - 2023
    <details>
     <summary>books</summary>
 	<a href="https://www.labirint.ru/books/808150/?ysclid=md1v2x7h76229970799">Сидельников Грег. Наглядный CSS/ Пер. с английского С. Черников. - Санкт-Петербург: Питер, 2022. - 224 с.</a>
