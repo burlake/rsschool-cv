@@ -32,12 +32,11 @@ Grasshopper - Array Mean (JavaScript)*
 - [x] Веб-разработка для начинающих: HTML и CSS (Stepik) - 2025
 - [x] Фронтенд-разработчик (Яндекс-Практикум) - 2024
 - [x] CS50 - 2023
-   <details>
-    <summary>books</summary>
-	<a href="https://www.labirint.ru/books/808150/?ysclid=md1v2x7h76229970799">Сидельников Грег. Наглядный CSS/ Пер. с английского С. Черников. - Санкт-Петербург: Питер, 2022. - 224 с.</a>
-	<br> <a href="https://sredaonline.ru/wp-content/uploads/2020/08/js-for-kids.pdf">JavaScript для детей. Самоучитель по программированию / Ник Морган; пер. с англ. Станислава Ломакина. — М.: МИФ, 2016. — 288 с.</a>
-	<br> <a href="https://www.labirint.ru/books/685649/?ysclid=md1vatplyq631737155">Титтел Эд, Минник Крис. HTML5 и CSS3 для чайников. - М.: Диалектика, 2020. - 400 с.</a>
-   </details>
+
+ books
+- [Сидельников Грег. Наглядный CSS](https://www.labirint.ru/books/808150/?ysclid=md1v2x7h76229970799)
+- [Ник Морган. JavaScript для детей. Самоучитель по программированию](https://sredaonline.ru/wp-content/uploads/2020/08/js-for-kids.pdf)
+- [Титтел Эд, Минник Крис. HTML5 и CSS3 для чайников](https://www.labirint.ru/books/685649/?ysclid=md1vatplyq631737155)
 
 *english*
 <details>
